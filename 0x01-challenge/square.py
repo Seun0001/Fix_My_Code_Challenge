@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 class square():
-    width = 0
-    height = 0
+    width = 12
+    height = 9
 
     
     def __init__(self, *args, **kwargs):
